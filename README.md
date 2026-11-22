@@ -10,7 +10,7 @@ Daniel de Omena Loubaque é responsável pelos objetivos, decisões de produto e
 Blogger e automação editorial assistida por IA. Tecnologias identificadas no projeto não equivalem a domínio avançado individual.
 
 ## Arquitetura
-Blog hospedado no Blogger; rotina editorial externa de pesquisa, redação e publicação. Não foi localizado repositório de código original separado.
+Blog hospedado no Blogger; rotina editorial externa de pesquisa, redação e publicação. Cópias editoriais e documentação operacional são mantidas em repositório privado.
 
 ## Funcionalidades
 Conteúdo editorial, fontes e rotina de publicação configurada.
@@ -40,7 +40,7 @@ Verificar políticas editoriais, páginas institucionais, transparência e quali
 Este documento foi escrito para publicação, sem copiar histórico, credenciais ou dados comerciais privados. Os originais privados permanecem privados. Auditoria documental em 14/11/2026; não constitui garantia de ausência de vulnerabilidades.
 
 ## Contato
-[Daniel no GitHub](https://github.com/Danielloubaque) · [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) · [Vyntriva Tech](https://vyntriva-tech.bakedcharm.chatgpt.site)
+[Daniel no GitHub](https://github.com/Danielloubaque) · [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) · [Vyntriva Tech](https://vyntriva-tech.onrender.com/)
 
 
 ## Captura real da página pública
